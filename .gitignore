@@ -1,4 +1,4 @@
 # Default ignored files
 .idea
 .vscode
-paquetes/npm/node_modules
+#paquetes/npm/node_modules
